@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum, I'm Umme Munia </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Learning+Web+Development+%F0%9F%8C%90;Exploring+the+world+of+AI+%F0%9F%A7%A0;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFE1A8&center=true&vCenter=true&width=500&lines=Learning+Web+Development+%F0%9F%8C%90;Exploring+the+world+of+AI+%F0%9F%A7%A0;Building+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
